@@ -1,0 +1,23 @@
+{
+  "name": "my-learn-way",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint main.js",
+    "lint:watch": "esw main.js -w"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kln4a/my-learn-way.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kln4a/my-learn-way/issues"
+  },
+  "homepage": "https://github.com/kln4a/my-learn-way#readme"
+}
